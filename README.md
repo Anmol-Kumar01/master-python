@@ -5,7 +5,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 ## Course Overview
 
 ### Module 1: Introduction to Python
-#### Week 1: Getting Started with Python
 - **Lesson 1.1:** Introduction to Python
   - What is Python?
   - History of Python
@@ -14,8 +13,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Installing Python
   - Choosing an IDE (PyCharm, VSCode, Jupyter Notebook)
   - Running Your First Python Program
-
-#### Week 2: Basic Syntax and Operations
 - **Lesson 1.3:** Basic Syntax
   - Writing and Running Python Scripts
   - Indentation and Code Blocks
@@ -31,7 +28,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Multi-Line Comments
 
 ### Module 2: Basic Python Constructs
-#### Week 3: Control Flow
 - **Lesson 2.1:** Conditional Statements
   - if Statement
   - if-else Statement
@@ -43,8 +39,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - break Statement
   - continue Statement
   - pass Statement
-
-#### Week 4: Functions
 - **Lesson 2.4:** Defining Functions
   - Function Syntax
   - Calling Functions
@@ -61,7 +55,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Local and Global Scope
 
 ### Module 3: Data Structures
-#### Week 5: Lists
 - **Lesson 3.1:** Introduction to Lists
   - Creating Lists
   - Accessing Elements
@@ -71,24 +64,18 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Slicing Lists
 - **Lesson 3.3:** List Comprehensions
   - Syntax and Examples
-
-#### Week 6: Tuples
 - **Lesson 3.4:** Introduction to Tuples
   - Creating Tuples
   - Accessing Elements
 - **Lesson 3.5:** Tuple Methods and Operations
   - Immutable Nature of Tuples
   - Tuple Methods (count, index)
-
-#### Week 7: Dictionaries
 - **Lesson 3.6:** Introduction to Dictionaries
   - Creating Dictionaries
   - Accessing Values
 - **Lesson 3.7:** Dictionary Methods and Operations
   - Adding, Removing, and Modifying Key-Value Pairs
   - Dictionary Methods (keys, values, items, etc.)
-
-#### Week 8: Sets
 - **Lesson 3.8:** Introduction to Sets
   - Creating Sets
   - Accessing Elements
@@ -97,7 +84,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Set Operations (union, intersection, difference)
 
 ### Module 4: Advanced Python Constructs
-#### Week 9: Strings
 - **Lesson 4.1:** String Basics
   - Creating and Accessing Strings
   - String Slicing
@@ -109,8 +95,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 - **Lesson 4.4:** Regular Expressions
   - Introduction to Regular Expressions
   - Using the `re` Module
-
-#### Week 10: Files and Exception Handling
 - **Lesson 4.5:** Reading and Writing Files
   - Opening and Closing Files
   - Reading from Files
@@ -124,7 +108,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Custom Exceptions
 
 ### Module 5: Modules and Packages
-#### Week 11: Modules
 - **Lesson 5.1:** Importing Modules
   - Standard Library Modules
   - Aliasing Modules
@@ -133,8 +116,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Importing from Custom Modules
 - **Lesson 5.3:** Built-in Modules
   - Overview of Commonly Used Modules (math, random, datetime, etc.)
-
-#### Week 12: Packages
 - **Lesson 5.4:** Creating Packages
   - Package Structure
   - `__init__.py` File
@@ -145,7 +126,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Using Popular Packages from PyPI
 
 ### Module 6: Object-Oriented Programming (OOP)
-#### Week 13: Introduction to OOP
 - **Lesson 6.1:** Basic Concepts
   - Class and Object
   - Attributes and Methods
@@ -153,8 +133,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Defining Classes
   - Creating Objects
   - Accessing Attributes and Methods
-
-#### Week 14: Advanced OOP Concepts
 - **Lesson 6.3:** Inheritance
   - Single and Multiple Inheritance
   - Overriding Methods
@@ -165,8 +143,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Public, Private, and Protected Attributes
 - **Lesson 6.6:** Abstraction
   - Abstract Classes and Methods
-
-#### Week 15: Special Methods
 - **Lesson 6.7:** Special Methods
   - `__init__`, `__str__`, `__repr__`
   - Other Magic Methods
@@ -174,27 +150,21 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Overloading Operators with Special Methods
 
 ### Module 7: Advanced Topics
-#### Week 16: Decorators
 - **Lesson 7.1:** Function Decorators
   - Creating and Using Decorators
 - **Lesson 7.2:** Class Decorators
   - Decorating Classes
-
-#### Week 17: Generators
 - **Lesson 7.3:** Creating Generators
   - `yield` Statement
   - Generator Functions
 - **Lesson 7.4:** Generator Expressions
   - Syntax and Use Cases
-
-#### Week 18: Context Managers
 - **Lesson 7.5:** Using `with` Statement
   - Managing Resources with Context Managers
 - **Lesson 7.6:** Creating Custom Context Managers
   - `__enter__` and `__exit__` Methods
 
 ### Module 8: Working with Data
-#### Week 19: Handling Data
 - **Lesson 8.1:** JSON
   - Reading and Writing JSON
   - Using `json` Module
@@ -204,8 +174,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 - **Lesson 8.3:** XML
   - Parsing XML
   - Using `xml` Module
-
-#### Week 20: Libraries for Data Science
 - **Lesson 8.4:** NumPy
   - Arrays and Operations
   - Common Functions
@@ -219,7 +187,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Advanced Data Visualization
 
 ### Module 9: Web Development Basics
-#### Week 21: Introduction to Web Development
 - **Lesson 9.1:** Overview of Web Technologies
   - Web Development Basics
   - Client-Server Architecture
@@ -232,8 +199,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 - **Lesson 9.4:** Templates
   - Using Jinja2 Templates
   - Rendering HTML
-
-#### Week 22: APIs
 - **Lesson 9.5:** Introduction to RESTful APIs
   - REST Principles
   - HTTP Methods
@@ -245,17 +210,12 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Handling JSON Data
 
 ### Module 10: Testing and Debugging
-#### Week 23: Debugging
-- **Lesson
-
-10.1:** Debugging Techniques
+- **Lesson 10.1:** Debugging Techniques
   - Common Errors and Solutions
   - Debugging Tools
 - **Lesson 10.2:** Using Debuggers
   - Setting Breakpoints
   - Inspecting Variables
-
-#### Week 24: Testing
 - **Lesson 10.3:** Introduction to Testing
   - Importance of Testing
   - Types of Testing
@@ -267,7 +227,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Automating Tests with CI/CD
 
 ### Module 11: Project Work
-#### Week 25-26: Capstone Project
 - **Lesson 11.1:** Project Planning
   - Choosing a Project Topic
   - Defining Scope and Requirements
@@ -276,15 +235,17 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
   - Applying Learned Concepts
 - **Lesson 11.3:** Testing and Debugging
   - Ensuring Functionality
-  - Fixing Issues
+ 
+
+ - Fixing Issues
 - **Lesson 11.4:** Final Presentation
-  - Preparing Documentation
-  - Presenting the Project
+  - Preparing a Presentation
+  - Demonstrating the Project
 
 ## How to Use This Course
-1. **Follow the Weekly Lessons:** Each module is broken down into weekly lessons. Make sure to complete all lessons and exercises within the week.
+1. **Follow the Lessons:** Open the provided Jupyter Notebook file and complete each lesson and exercise sequentially.
 2. **Practice with Exercises:** Apply what you learn through practical exercises provided at the end of each lesson.
-3. **Complete the Capstone Project:** Use your knowledge to build a comprehensive project during the final weeks of the course.
+3. **Complete the Capstone Project:** Use your knowledge to build a comprehensive project during the final module.
 4. **Seek Help:** If you have any questions, feel free to ask for help from instructors or peers.
 
 ## Prerequisites
@@ -303,4 +264,3 @@ If you would like to contribute to the course content or have any suggestions, p
 This course is licensed under the MIT License. See the LICENSE file for more details.
 
 Happy Learning!
-

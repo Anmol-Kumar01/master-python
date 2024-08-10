@@ -7,7 +7,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 ### Module 1: Introduction to Python
 - **Lesson 1.1:** Introduction to Python
   - What is Python?
-  - History of Python
   - Features of Python
 - **Lesson 1.2:** Setting Up Python Environment
   - Installing Python

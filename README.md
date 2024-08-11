@@ -2,28 +2,27 @@
 
 Welcome to the **Basic to Advanced Python Course**! This comprehensive course is designed to take you from a beginner to an advanced level in Python programming, covering all concepts up to Object-Oriented Programming (OOP). Whether you're new to programming or looking to enhance your skills, this course has everything you need to become proficient in Python.
 
-## Course Overview
+### Course Overview
 
 ### Module 1: Introduction to Python
 - **Lesson 1.1:** Introduction to Python
   - What is Python?
   - History of Python
   - Features of Python
-- **Lesson 1.2:** Setting Up Python Environment
   - Installing Python
-  - Choosing an IDE (PyCharm, VSCode, Jupyter Notebook)
+  - (Optional) Choosing an IDE (PyCharm, VSCode, Jupyter Notebook) 
+- **Lesson 1.2:** Basic Syntax
   - Running Your First Python Program
-- **Lesson 1.3:** Basic Syntax
   - Writing and Running Python Scripts
   - Indentation and Code Blocks
-- **Lesson 1.4:** Variables and Data Types
+- **Lesson 1.3:** Variables and Data Types
   - Variable Naming Rules
   - Basic Data Types (int, float, str, bool)
   - Type Conversion
-- **Lesson 1.5:** Basic Input and Output
+- **Lesson 1.4:** Basic Input and Output
   - Reading Input from the Console
   - Displaying Output to the Console
-- **Lesson 1.6:** Comments
+- **Lesson 1.5:** Comments
   - Single-Line Comments
   - Multi-Line Comments
 

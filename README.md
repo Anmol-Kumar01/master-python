@@ -249,6 +249,7 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 
 ## Prerequisites
 - Basic computer skills
+- Motivation to learn Python
 - An interest in programming and problem-solving
 
 ## Tools and Resources

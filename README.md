@@ -184,59 +184,36 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 - **Lesson 8.7:** seaborn
   - Advanced Data Visualization
 
-### Module 9: Web Development Basics
-- **Lesson 9.1:** Overview of Web Technologies
-  - Web Development Basics
-  - Client-Server Architecture
-- **Lesson 9.2:** Setting Up Flask
-  - Installing Flask
-  - Creating a Basic Flask App
-- **Lesson 9.3:** Basic Routing
-  - Defining Routes
-  - Handling Requests and Responses
-- **Lesson 9.4:** Templates
-  - Using Jinja2 Templates
-  - Rendering HTML
-- **Lesson 9.5:** Introduction to RESTful APIs
-  - REST Principles
-  - HTTP Methods
-- **Lesson 9.6:** Consuming APIs with Requests
-  - Sending Requests
-  - Handling Responses
-- **Lesson 9.7:** Creating APIs with Flask
-  - Building API Endpoints
-  - Handling JSON Data
-
-### Module 10: Testing and Debugging
-- **Lesson 10.1:** Debugging Techniques
+### Module 9: Testing and Debugging
+- **Lesson 9.1:** Debugging Techniques
   - Common Errors and Solutions
   - Debugging Tools
-- **Lesson 10.2:** Using Debuggers
+- **Lesson 9.2:** Using Debuggers
   - Setting Breakpoints
   - Inspecting Variables
-- **Lesson 10.3:** Introduction to Testing
+- **Lesson 9.3:** Introduction to Testing
   - Importance of Testing
   - Types of Testing
-- **Lesson 10.4:** Unit Testing with `unittest`
+- **Lesson 9.4:** Unit Testing with `unittest`
   - Writing Test Cases
   - Running Tests
-- **Lesson 10.5:** Test Automation
+- **Lesson 9.5:** Test Automation
   - Using `pytest`
   - Automating Tests with CI/CD
 
-### Module 11: Project Work
-- **Lesson 11.1:** Project Planning
+### Module 10: Project Work
+- **Lesson 10.1:** Project Planning
   - Choosing a Project Topic
   - Defining Scope and Requirements
-- **Lesson 11.2:** Implementation
+- **Lesson 10.2:** Implementation
   - Writing Code
   - Applying Learned Concepts
-- **Lesson 11.3:** Testing and Debugging
+- **Lesson 10.3:** Testing and Debugging
   - Ensuring Functionality
  
 
  - Fixing Issues
-- **Lesson 11.4:** Final Presentation
+- **Lesson 10.4:** Final Presentation
   - Preparing a Presentation
   - Demonstrating the Project
 

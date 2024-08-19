@@ -215,7 +215,6 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
  - Fixing Issues
 - **Lesson 10.4:** Final Presentation
   - Preparing a Presentation
-  - Explain Project Objective and Functionality
   - Demonstrating the Project
 
 ## How to Use This Course

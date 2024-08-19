@@ -239,5 +239,4 @@ If you would like to contribute to the course content or have any suggestions, p
 ## License
 This course is licensed under the MIT License. See the LICENSE file for more details.
 
-Happy Pythoning!
 Happy Learning!

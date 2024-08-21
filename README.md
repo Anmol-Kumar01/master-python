@@ -181,6 +181,7 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 - **Lesson 8.6:** Matplotlib
   - Plotting Basics
   - Creating Charts and Graphs
+  - Data Vishualization
 - **Lesson 8.7:** seaborn
   - Advanced Data Visualization
 

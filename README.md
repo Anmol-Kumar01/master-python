@@ -238,4 +238,4 @@ Welcome to the **Basic to Advanced Python Course**! This comprehensive course is
 If you would like to contribute to the course content or have any suggestions, please feel free to submit a pull request or contact the course administrators.
 
 Happy Learning!
-Happy Pythoning!.
+Happy Pythoning!
